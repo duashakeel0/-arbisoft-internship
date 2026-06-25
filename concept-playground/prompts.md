@@ -1,5 +1,5 @@
 
-
+### day 2 propts 
 ### Prompt 1 — Modern JavaScript Deep Dive
 
 Act as a senior JavaScript engineer and teach me the following concepts from beginner to intermediate level: closures, hoisting, callback functions, Promises, async/await, and ES Modules. For each concept explain:
@@ -68,3 +68,22 @@ Based on JavaScript, React, TypeScript, and Vite concepts, generate:
 * Small coding exercises
 
 Then create a small React + TypeScript project that demonstrates components, props, state, conditional rendering, list rendering, interfaces, generics, Promises, and async/await.
+
+
+
+### Day 3 Prompts
+### Prompt 1
+
+Create a React SPA using React Router with a shared layout containing a navbar, sidebar, and nested routes.
+
+### Prompt 2
+
+Build an attendance form using React Hook Form with client-side validation for required fields.
+
+### Prompt 3
+
+Integrate react-hot-toast to display success notifications after successful form submission.
+
+### Prompt 4
+
+Generate unit tests using Vitest and React Testing Library for the Navbar component and Attendance form validation.
